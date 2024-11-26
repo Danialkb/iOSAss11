@@ -1,0 +1,6 @@
+framework module Pods_iOSAss11 {
+  umbrella header "Pods-iOSAss11-umbrella.h"
+
+  export *
+  module * { export * }
+}
